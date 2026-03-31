@@ -3,7 +3,8 @@
 Aplikasi Form Login sederhana yang dibuat menggunakan Android Studio dan XML Layout serta validasi input dasar untuk username dan password.
 
 🖼️ Tampilan Aplikasi
-<img width="869" height="546" alt="image" src="https://github.com/user-attachments/assets/5fbc75fd-0c0c-47a1-ac2e-5b7e998add5b" />
+<img width="306" height="546" alt="image" src="https://github.com/user-attachments/assets/14702a92-d194-414d-9a01-88e5b7e50b17" />
+
 
 
 🛠️ Teknologi yang Digunakan
