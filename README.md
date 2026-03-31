@@ -6,11 +6,11 @@ Aplikasi Form Login sederhana yang dibuat menggunakan Android Studio dan XML Lay
 
 <img width="306" height="546" alt="image" src="https://github.com/user-attachments/assets/14702a92-d194-414d-9a01-88e5b7e50b17" />
 
-🛠️ Teknologi yang Digunakan 
+🛠️ Teknologi yang Digunakan = 
 Java / Kotlin
 Android Studio
 
 🔐 Validasi Login
-Saat ini aplikasi menggunakan validasi sederhana:
-Username tidak boleh kosong
+Saat ini aplikasi menggunakan validasi sederhana = 
+Username tidak boleh kosong | 
 Password tidak boleh kosong
