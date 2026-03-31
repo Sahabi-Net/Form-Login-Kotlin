@@ -10,21 +10,13 @@ Aplikasi Form Login sederhana yang dibuat menggunakan Android Studio dan XML Lay
 
 
 
-🛠️ Teknologi yang Digunakan
+
+
+🛠️ Teknologi yang Digunakan 
 Java / Kotlin
 Android Studio
-XML Layout
-CardView
-ConstraintLayout / LinearLayout
-
 
 🔐 Validasi Login
-
 Saat ini aplikasi menggunakan validasi sederhana:
-
 Username tidak boleh kosong
 Password tidak boleh kosong
-
-Logika login berada di:
-
-MainActivity.kt
